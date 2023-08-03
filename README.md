@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @raokalyan
 - 👀 I’m interested in network security and crypto
 - 🌱 I’m currently learning crypto
+- I've also started working on devloping code with OpenAI, Langchain for LLMs
 - 💞️ I’m looking to collaborate on the above topics
 - 📫 How to reach me ...
 
